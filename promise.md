@@ -62,7 +62,7 @@ p1.then( (res) => {
 &emsp;&emsp;resolve和reject函数被调用时，分别将promise的状态改为fulfilled（完成）或rejected（失败）。<br>
 &emsp;&emsp;函数内部通常会执行一些异步操作，一旦完成，可以调用resolve函数来将promise状态改成fulfilled，或者在发生错误时将它的状态改为rejected。
 如果在函数中抛出一个错误，那么该promise 状态为rejected。函数的返回值被忽略。
-![image](../images/promise1.png)
+![image](markdown/images/promise1.png)
 
 
 
