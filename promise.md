@@ -399,6 +399,6 @@ const makeRequest = async () => {
 makeRequest()
 ```
 
-- https://www.cnblogs.com/fundebug/p/6667725.html （为什么async/await）更好
+- https://www.cnblogs.com/fundebug/p/6667725.html （为什么async/await更好）
 - http://www.css88.com/archives/7980
 - http://blog.csdn.net/sinat_17775997/article/details/60609498
